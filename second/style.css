@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html, body{
+	height: 100%;
+}
+.left{
+	float: left;
+	background-color: #4592DC;
+	height: 100%;
+	width: 33%;
+}
+.center{
+	float: left;
+	background-color: #3CE3C4;
+	height: 100%;
+	width: 33%;
+
+}
+.right{
+	float: left;
+	background-color: #B5E892;
+	height: 75%;
+	width: 34%;
+
+}
+.bottom-right{
+	float: left;
+	background-color: #D40021;
+	height: 154px;
+	width: 34%;
+	text-align: center;
+	color: white;
+	line-height: 150px;
+}
